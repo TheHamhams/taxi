@@ -1,4 +1,4 @@
-Finished my first internship project for Data Glacier. We were asked to use provided data sets for a fictional company and decide which taxi company they should invest in. Afterwards, we created a powerpoint to communicate our findings and recommendation. 
+This is my first internship project for Data Glacier. We were asked to use provided data sets for a fictional company and decide which taxi company they should invest in. Afterwards, we created a powerpoint to communicate our findings and recommendation. 
 
 
 I tried to answer questions I thought would be most relevant to which would be a good investment. My graphs are pretty simple, but I wanted to focus on them being clear and understandable rather than being fancy and pretty. 
